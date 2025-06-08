@@ -1,2 +1,5 @@
-# Inventory-Tracker-for-a-Store
-Objective: Manage an inventory system where items and their prices/stock are stored and updated.
+Features:
+• Add new items with price and quantity.
+• Update quantity or price.
+• Show all items below a stock threshold (e.g., less than 5 units).
+• Filter items cheaper than a certain budget.
